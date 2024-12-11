@@ -16,7 +16,8 @@ Students enroll in a course under a professor, triggering the setup for attendan
 
 **Attendance Record**: Google Sheets maintains a table with student roll numbers as rows and working days as columns.
 
-![image](https://github.com/user-attachments/assets/74b74320-f4f1-4580-849e-62e2ca2ecda0)
+![image](https://github.com/user-attachments/assets/2cade273-d43e-4af5-8b86-06a2676b3c6c)
+
 
 ##**Tools and Technologies:**
 
