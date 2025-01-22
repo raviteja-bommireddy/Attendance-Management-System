@@ -17,7 +17,7 @@
 We'll use the Google Sheets API to record the attendance based on the data submitted through Google Forms.
 
 ## How the System Works:
-<br>QR Code Generation: Every day, the Python script generates a unique QR code linked to a Google Form.
-<br>Sending Emails: The script sends an email to the professor at a fixed time (e.g., 8 AM), including the QR code and a control button to activate/deactivate attendance.
-<br>Student Form Submission: Students scan the QR code and fill out their roll numbers and email IDs in the Google Form.
-<br>Attendance Record: The attendance is recorded automatically in a Google Sheet.
+<br>1. QR Code Generation: Every day, the Python script generates a unique QR code linked to a Google Form.
+<br>2. Sending Emails: The script sends an email to the professor at a fixed time (e.g., 8 AM), including the QR code and a control button to activate/deactivate attendance.
+<br>3. Student Form Submission: Students scan the QR code and fill out their roll numbers and email IDs in the Google Form.
+<br>4. Attendance Record: The attendance is recorded automatically in a Google Sheet.
